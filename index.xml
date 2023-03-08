@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Minkyung Park</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 04 Aug 2020 14:50:40 +0900</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 08 Mar 2023 14:20:40 +0900</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Minkyung Park</title>
@@ -21,11 +21,12 @@
     </item>
     
     <item>
-      <title>Test1</title>
+      <title>Hello World!</title>
       <link>/post/test1/</link>
-      <pubDate>Tue, 04 Aug 2020 14:50:40 +0900</pubDate>
+      <pubDate>Wed, 08 Mar 2023 14:20:40 +0900</pubDate>
       <guid>/post/test1/</guid>
-      <description></description>
+      <description>&lt;p&gt;You can find my Resume and CV in the above menu bar.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
